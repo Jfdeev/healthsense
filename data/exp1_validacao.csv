@@ -1,0 +1,5 @@
+Método,Melhor,Média,Desvio,Atendidos(méd),Factível
+Sem otimização,0.0,0.0,0.0,0,True
+Busca aleatória,6350.411004045526,6255.353015063139,126.09856190650976,22,True
+Guloso (densidade),9516.826525737946,9516.826525737946,0.0,29,True
+Algoritmo Genético,9755.09041750334,9717.536909631812,42.170673188203686,26,True

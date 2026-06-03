@@ -1,0 +1,15 @@
+ID,Cenário,Engaj.,Suporte,Satisf.,Atraso,Tenure,CHS,Classificação
+C01,Crítico — abandonado e inadimplente,5,2,3,60,18,21.5,Em Risco
+C02,Crítico — explosão de tickets,15,25,2,10,24,21.5,Em Risco
+C03,Crítico — veterano que parou,10,5,4,20,48,21.5,Em Risco
+C04,Atenção — novo em onboarding,45,6,7,0,2,50.0,Atenção
+C05,Atenção — uso estagnado,42,4,7,8,15,50.0,Atenção
+C06,Atenção — engajado mas detrator,75,3,3,0,20,60.0,Atenção
+C07,Promotor — power user ideal,95,1,10,0,42,78.5,Saudável
+C08,Saudável — conta normal,72,3,8,2,24,70.0,Saudável
+C09,Promotor — recente animado,88,2,10,0,6,78.4,Saudável
+C10,Fronteira — atenção/saudável,60,5,7,5,18,61.3,Saudável
+C11,Fronteira — risco/atenção,35,8,6,15,12,50.0,Atenção
+C12,Fronteira — saudável/promotor,82,2,9,0,30,77.6,Saudável
+C13,Conflito — power user inadimplente,92,1,8,75,24,50.0,Atenção
+C14,Conflito — promotor com suporte crítico,70,22,10,0,18,61.5,Saudável
