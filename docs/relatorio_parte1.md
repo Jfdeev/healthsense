@@ -8,13 +8,6 @@
 
 **Repositório GitHub:** _<inserir link>_
 
-**Equipe:**
-- _<Nome 1>_ — Product Owner / Pesquisa
-- _<Nome 2>_ — Engenheiro Fuzzy
-- _<Nome 3>_ — Dev Backend
-- _<Nome 4>_ — Dev Frontend
-- _<Nome 5>_ — QA + Otimização
-
 ---
 
 ## Resumo
