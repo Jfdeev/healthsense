@@ -18,22 +18,6 @@ O Allocator usa o motor fuzzy do Scorer como **função de aptidão** — é a i
 
 ---
 
-## Equipe
-
-| Nome | Papel |
-|---|---|
-| _<preencher>_ | _<papel>_ |
-| _<preencher>_ | _<papel>_ |
-| _<preencher>_ | _<papel>_ |
-| _<preencher>_ | _<papel>_ |
-| _<preencher>_ | _<papel>_ |
-
-**Turma:** _<CC5MA / CC5NA>_ · **Entregas:** Parte 1 (09 ou 11/06/2026) · Parte 2 (10 ou 12/06/2026)
-
-> ⚠️ Equipe de 5: a **Parte 2 exige autorização prévia do docente** (Seção 5 do enunciado). Confirmar antes da entrega.
-
----
-
 ## Como executar
 
 ```bash
