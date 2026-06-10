@@ -8,13 +8,6 @@
 
 **Repositório GitHub:** _<inserir link>_
 
-**Equipe:**
-- _<Nome 1>_ — _<papel>_
-- _<Nome 2>_ — _<papel>_
-- _<Nome 3>_ — _<papel>_
-- _<Nome 4>_ — _<papel>_
-- _<Nome 5>_ — _<papel>_
-
 ---
 
 ## Resumo
