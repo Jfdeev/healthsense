@@ -1,0 +1,33 @@
+ID,Categoria,Justificativa
+R1,CRITICO,Engajamento baixo + tickets críticos = cliente abandonado em meio a problema operacional grave.
+R2,CRITICO,Detrator (NPS baixo) com inadimplência grave = vontade explícita de sair + sinal financeiro.
+R3,CRITICO,Engajamento baixo + atraso grave = cliente fora da plataforma E inadimplente.
+R4,CRITICO,"Veterano com baixo engajamento, suporte crítico e detrator = churn iminente de conta estratégica."
+R5,RISCO,"Veterano com engajamento baixo = lealdade artificial, alto risco de não-renovação."
+R6,RISCO,Detrator com alto volume de suporte = frustrado com fricções operacionais.
+R7,RISCO,Suporte crítico + atraso leve = dor operacional contagiando saúde financeira.
+R8,RISCO,Engajamento moderado + detrator = uso mecânico sem valor percebido.
+R9,RISCO,Engajamento baixo em cliente estabelecido = sinal de adoção que estagnou.
+R10,RISCO,Veterano detrator = relacionamento azedando após longo histórico.
+R11,ATENCAO,"Cliente novo com engajamento moderado = onboarding em progresso, ainda imaturo."
+R12,ATENCAO,Engajamento moderado + suporte em atenção = adoção parcial com fricção média.
+R13,ATENCAO,Atraso leve + satisfação neutra = cliente sem reclamação mas com sinais financeiros amarelos.
+R14,ATENCAO,Cliente novo recebendo muito suporte = onboarding com dificuldade técnica.
+R15,ATENCAO,Engajamento alto mas detrator = usa o produto contrariado (alto risco de migração).
+R16,ATENCAO,"Cliente novo com baixo engajamento = onboarding falhando, intervenção early-stage."
+R17,SAUDAVEL,"Engajamento alto, satisfação neutra e financeiro em dia = padrão de cliente estável."
+R18,SAUDAVEL,Engajamento alto + baixo volume de suporte = adoção saudável e auto-suficiente.
+R19,SAUDAVEL,"Veterano com engajamento moderado e em dia = padrão maduro, uso eficiente."
+R20,SAUDAVEL,Engajamento alto + promotor = cliente satisfeito usando ativamente.
+R21,SAUDAVEL,Engajamento muito alto com leve fricção de suporte = power user com ruído normal.
+R22,PROMOTOR,Engajamento muito alto + promotor + em dia = perfil ideal para expansão de receita.
+R23,PROMOTOR,"Engajamento muito alto + promotor + veterano = case de sucesso, candidato a referência."
+R24,PROMOTOR,"Power user sem suporte e em dia = adoção orgânica, alta autonomia."
+R25,PROMOTOR,Veterano promotor com engajamento alto e em dia = relacionamento maduro de valor.
+R26,CONFLITO,"Power user inadimplente grave = uso ativo não compensa risco financeiro, rebaixa para risco."
+R27,CONFLITO,"Promotor com suporte crítico = elogio ao produto mas dor operacional aguda, rebaixa para atenção."
+R28,CONFLITO,Engajamento moderado + promotor + suporte saudável = cliente satisfeito mesmo com uso parcial.
+R29,BASELINE,"Sem outros sinais, engajamento baixo é heurística de risco (uso é proxy primário de valor)."
+R30,BASELINE,"Sem outros sinais, engajamento moderado é zona de atenção (adoção parcial)."
+R31,BASELINE,"Sem outros sinais, engajamento alto é heurística de saúde (uso ativo do produto)."
+R32,BASELINE,"Sem outros sinais, engajamento muito alto é heurística de saudável (promoção a 'Promotor' exige sinal explícito de NPS+financeiro nas regras específicas R22-R25)."

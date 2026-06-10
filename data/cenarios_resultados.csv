@@ -1,15 +1,15 @@
-ID,Cenário,Engaj.,Suporte,Satisf.,Atraso,Tenure,CHS,Classificação
-C01,Crítico — abandonado e inadimplente,5,2,3,60,18,21.5,Em Risco
-C02,Crítico — explosão de tickets,15,25,2,10,24,21.5,Em Risco
-C03,Crítico — veterano que parou,10,5,4,20,48,21.5,Em Risco
-C04,Atenção — novo em onboarding,45,6,7,0,2,50.0,Atenção
-C05,Atenção — uso estagnado,42,4,7,8,15,50.0,Atenção
-C06,Atenção — engajado mas detrator,75,3,3,0,20,60.0,Atenção
-C07,Promotor — power user ideal,95,1,10,0,42,78.5,Saudável
-C08,Saudável — conta normal,72,3,8,2,24,70.0,Saudável
-C09,Promotor — recente animado,88,2,10,0,6,78.4,Saudável
-C10,Fronteira — atenção/saudável,60,5,7,5,18,61.3,Saudável
-C11,Fronteira — risco/atenção,35,8,6,15,12,50.0,Atenção
-C12,Fronteira — saudável/promotor,82,2,9,0,30,77.6,Saudável
-C13,Conflito — power user inadimplente,92,1,8,75,24,50.0,Atenção
-C14,Conflito — promotor com suporte crítico,70,22,10,0,18,61.5,Saudável
+ID,engajamento,volume_suporte,satisfacao,saude_financeira,tenure,CHS,Classificacao,Interpretacao
+C01,5,2,3,60,18,21.5,Em Risco,"Uso quase nulo e 60d de atraso; extremo inferior, coerente."
+C02,15,25,2,10,24,21.5,Em Risco,25 tickets e detrator: ficcao aguda leva a Em Risco.
+C03,10,5,4,20,48,21.5,Em Risco,"Veterano com uso quase nulo e rebaixado, coerente."
+C04,45,6,7,0,2,50.0,Atenção,Uso parcial normal para conta nova; intermediario.
+C05,42,4,7,8,15,50.0,Atenção,Cliente morno sem reclamar: monitoramento.
+C06,75,3,3,0,20,60.0,Atenção,Usa muito mas insatisfeito; nao e Saudavel pleno.
+C07,95,1,10,0,42,78.5,Saudável,Todos os sinais altos; topo da escala.
+C08,72,3,8,2,24,70.0,Saudável,Bom uso e satisfacao; saudavel estavel.
+C09,88,2,10,0,6,78.4,Saudável,NPS alto e forte uso ja cedo; elevado.
+C10,60,5,7,5,18,61.3,Saudável,Medios-altos; faixa de transicao.
+C11,35,8,6,15,12,50.0,Atenção,Sinais amarelos; transicao inferior.
+C12,82,2,9,0,30,77.6,Saudável,Quase ideal; topo de Saudavel.
+C13,92,1,8,75,24,50.0,Atenção,Conflito: power user com 75d atraso e rebaixado.
+C14,70,22,10,0,18,61.5,Saudável,Conflito: promotor com 22 tickets e rebaixado.

@@ -82,7 +82,7 @@ Sistema fuzzy que combina **5 entradas** (engajamento, volume de suporte, satisf
 - Ampliação (equipe de 5): análise de sensibilidade · Extra: **PSO** otimiza as MFs
 - Validação: 14 cenários + 16 testes
 
-Detalhes: [`docs/relatorio_parte1.md`](docs/relatorio_parte1.md) · defesa: [`docs/roteiro_defesa_parte1.md`](docs/roteiro_defesa_parte1.md)
+Detalhes: [`docs/Relatorio_Parte1.pdf`](docs/Relatorio_Parte1.pdf) · defesa: [`docs/roteiro_defesa_parte1.md`](docs/roteiro_defesa_parte1.md)
 
 ---
 
@@ -107,7 +107,7 @@ Otimizador que decide **qual CSM atende qual cliente com qual playbook** para ma
 
 **AG vs Memético:** no eixo de avaliações (o justo), o AG puro domina — o memético gasta ~4× avaliações sem melhorar. **Fuzzy vs Linear:** trocar o fuzzy por um modelo linear muda 29/40 alocações e degrada o valor real (9.747 → 3.484).
 
-Detalhes: [`docs/relatorio_parte2.md`](docs/relatorio_parte2.md) · defesa: [`docs/roteiro_defesa_parte2.md`](docs/roteiro_defesa_parte2.md)
+Detalhes: [`docs/Relatorio_Parte2.pdf`](docs/Relatorio_Parte2.pdf) · defesa: [`docs/roteiro_defesa_parte2.md`](docs/roteiro_defesa_parte2.md)
 
 ---
 
