@@ -1,6 +1,6 @@
 # Declaração de Uso de IA — HealthSense (Partes 1 e 2)
 
-**Equipe:** _<preencher nomes>_
+**Equipe:** João Felipe Soares · Pedro Lyra · Paulo Ricardo · Murilo Carneiro · Vithor dos Santos
 **Disciplina:** Inteligência Artificial e Computacional (0700M8) — CESUPA 2026/1
 **Professor:** Daniel Leal Souza
 
@@ -32,8 +32,8 @@ A equipe assume integral responsabilidade pelo conteúdo final — código, rela
 ## Quem revisou o quê
 | Integrante | Revisou |
 |---|---|
-| _<nome>_ | `src/fuzzy/` (Parte 1) |
-| _<nome>_ | `src/evolutionary/problem.py`, `ga.py` (Parte 2) |
-| _<nome>_ | `memetic.py`, experimentos |
-| _<nome>_ | `app/` (dashboard) |
-| _<nome>_ | testes, métricas, relatórios |
+| João Felipe Soares | `src/fuzzy/` (Parte 1) |
+| Pedro Lyra | `src/evolutionary/problem.py`, `ga.py` (Parte 2) |
+| Paulo Ricardo | `memetic.py`, experimentos |
+| Murilo Carneiro | `app/` (dashboard) |
+| Vithor dos Santos | testes, métricas, relatórios |

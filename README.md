@@ -4,6 +4,7 @@
 
 **Disciplina:** Inteligência Artificial e Computacional (0700M8) — CESUPA · Argo
 **Professor:** Daniel Leal Souza · **Semestre:** 2026/1
+**Equipe:** João Felipe Soares · Pedro Lyra · Paulo Ricardo · Murilo Carneiro · Vithor dos Santos · **Turma:** [CC5MA / CC5NA]
 
 Este repositório reúne, como **um único produto**, os dois trabalhos da disciplina:
 
